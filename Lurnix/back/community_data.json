@@ -1,0 +1,70 @@
+{
+  "users": [],
+  "posts": [
+    {
+      "id": 1747305835878,
+      "title": "Algebra",
+      "content": "want a formula to calculate calculus",
+      "author": {
+        "name": "DemoUser",
+        "avatar": "DU"
+      },
+      "category": "Algebra",
+      "attachments": [],
+      "upvotes": 0,
+      "comments": [
+        {
+          "id": 1747386852628,
+          "author": {
+            "name": "DemoUser",
+            "avatar": "DU"
+          },
+          "content": "i will share you soon",
+          "attachments": [],
+          "createdAt": "2025-05-16T09:14:12.628Z"
+        }
+      ],
+      "createdAt": "2025-05-15T10:43:55.878Z"
+    },
+    {
+      "id": 1747307201133,
+      "title": "3d visualization",
+      "content": "need a tool for 3d visualization",
+      "author": {
+        "name": "DemoUser",
+        "avatar": "DU"
+      },
+      "category": "AR Learning",
+      "attachments": [],
+      "upvotes": 0,
+      "comments": [
+        {
+          "id": 1747307660071,
+          "author": {
+            "name": "DemoUser",
+            "avatar": "DU"
+          },
+          "content": "unity",
+          "attachments": [],
+          "createdAt": "2025-05-15T11:14:20.072Z"
+        }
+      ],
+      "createdAt": "2025-05-15T11:06:41.133Z"
+    },
+    {
+      "id": 1747386127190,
+      "title": "Differentiation",
+      "content": "can i get the material for this subject",
+      "author": {
+        "name": "DemoUser",
+        "avatar": "DU"
+      },
+      "category": "Calculus",
+      "attachments": [],
+      "upvotes": 0,
+      "comments": [],
+      "createdAt": "2025-05-16T09:02:07.190Z"
+    }
+  ],
+  "comments": []
+}
